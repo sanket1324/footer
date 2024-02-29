@@ -1,0 +1,35 @@
+body{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: end;
+    height: 100vh;
+}
+footer{
+    background-color: rgba(204, 204, 204, 0.308);
+    background-image: linear-gradient(rgba(204, 204, 204, 0.534),white);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px 0px;
+    width: 200vh;
+}
+div{
+    display: flex;
+    justify-content: end;
+    gap: 90px;
+}
+ul{
+    margin: 0;
+    list-style-type: none;
+}
+h3{
+    color: rgba(0, 0, 0, 0.856);
+}
+li{
+    
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
